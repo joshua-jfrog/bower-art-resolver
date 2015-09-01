@@ -39,4 +39,4 @@ You can also use Artifactory encrypted password
 
 ## Usage
 
-Use the client to install packages from Artifactory, e.g. `bower install bootstrap`
+Use the client to install packages from Artifactory, e.g. `bower-art install bootstrap`
